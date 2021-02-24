@@ -1,0 +1,26 @@
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.deps.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.runtimeconfig.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.runtimeconfig.dev.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\bin\Debug\netcoreapp3.1\Data structures.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.csprojAssemblyReference.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.AssemblyInfoInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.AssemblyInfo.cs
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.csproj.CoreCompileInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Data structures\obj\Debug\netcoreapp3.1\Data structures.genruntimeconfig.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.deps.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.runtimeconfig.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.runtimeconfig.dev.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\bin\Debug\netcoreapp3.1\Data structures.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.csprojAssemblyReference.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.AssemblyInfoInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.AssemblyInfo.cs
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.csproj.CoreCompileInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 2\obj\Debug\netcoreapp3.1\Data structures.genruntimeconfig.cache

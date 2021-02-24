@@ -1,0 +1,26 @@
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.exe
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.deps.json
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.runtimeconfig.json
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.runtimeconfig.dev.json
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.dll
+E:\C# stuff - Do not delete\DataStructureAssignment\bin\Debug\netcoreapp3.1\DataStructureAssignment.pdb
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.csprojAssemblyReference.cache
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.AssemblyInfoInputs.cache
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.AssemblyInfo.cs
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.csproj.CoreCompileInputs.cache
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.dll
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.pdb
+E:\C# stuff - Do not delete\DataStructureAssignment\obj\Debug\netcoreapp3.1\DataStructureAssignment.genruntimeconfig.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.exe
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.deps.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.runtimeconfig.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.runtimeconfig.dev.json
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\bin\Debug\netcoreapp3.1\DataStructureAssignment.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.csprojAssemblyReference.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.AssemblyInfoInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.AssemblyInfo.cs
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.dll
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.pdb
+C:\Users\Dostoevsky\OneDrive - Syddansk Universitet\SDU\2. Semester\3D programmering 2\Homework\Homework 3 - Data structures\Solution 1\obj\Debug\netcoreapp3.1\DataStructureAssignment.genruntimeconfig.cache
